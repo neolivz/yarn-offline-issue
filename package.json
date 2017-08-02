@@ -1,0 +1,11 @@
+{
+  "name": "yarn-offline-issue",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:neolivz/yarn-offline-issue.git",
+  "author": "Jishnu Viswanath <github@jishnu.me>",
+  "license": "MIT",
+  "dependencies": {
+    "axios": "^0.16.2"
+  }
+}
